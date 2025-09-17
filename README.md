@@ -6,5 +6,5 @@ There's not a specific order. I'll start talking about a Vim-like command, but i
 
 ---
 
-[Vim](notes/vim.md.md)
+[Vim](notes/vim.md)
 
