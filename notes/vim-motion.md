@@ -1,4 +1,4 @@
-# Vim Motion
+# Vim Motions
 
 This assumes you already have a file with some content in it (a `txt` file is enough). If you are getting started, you can create it with another text editor and open it with Vim later.
 
