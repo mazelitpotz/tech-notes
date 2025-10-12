@@ -9,3 +9,5 @@ There are tons of manuals about Vim out there, and I don't want to build a copy 
 [Modify a file in Vim](modify-a-file-in-vim.md)
 
 [Initial Horizontal Motions](horizontal-vim-motions-intro.md)
+
+[Move to the Start/End of the line](move-start-end-line.md)
