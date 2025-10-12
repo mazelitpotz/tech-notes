@@ -7,3 +7,5 @@ There are tons of manuals about Vim out there, and I don't want to build a copy 
 [Vim Motion](vim-motion.md)
 
 [Modify a file in Vim](modify-a-file-in-vim.md)
+
+[Initial Horizontal Motions](horizontal-vim-motions-intro.md)
