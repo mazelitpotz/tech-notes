@@ -8,6 +8,6 @@ There's not a specific order. I'll start talking about a Vim-like command, but i
 
 # Terminal Tools
 
-- [Basic Commands](terminal-basic.md)
+- [Basic Commands](notes/terminal-basic.md)
 - [Vim](notes/vim.md)
 - [Homebrew](notes/homebrew.md)
